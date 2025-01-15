@@ -1,4 +1,5 @@
 # Baekjoon 문제 풀어보기
 
 sovled.ac
-class 1 진행중
+class 1 - 완료
+class 2 - 진행중
